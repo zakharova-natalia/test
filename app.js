@@ -2,6 +2,8 @@
 // console.log("hello", firstName);
 
 let firstName = "Natalia";
-firstName = "Maria";
+let age = "40";
+let city = "Munich";
+let hobby = "design";
 
-console.log("Hello", firstName);
+console.log("Hello", firstName, age, city, hobby);
